@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1485411432 source:d:\sources\quote_gen\main.cpp
+	<iostream>
+	<iomanip>
+
